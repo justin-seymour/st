@@ -1,0 +1,16 @@
+
+Config based on Luke Smith
+
+Patches:
+ - follow urls (alt-l) - idk
+ - copy urls (alt-y)
+ - copy output of commands (alt-o)
+
+ - scrollback (alt-↑/↓ or alt-pgup/pgdown)
+    - or vim bindings (alt-j/k and alt-u/d)
+ - change font size (alt-shift-↑/↓ or alt-shift-j/k)
+ - copy text (alt-c), paste text (alt-v or shift-insert)
+
+ - transparency available?? (haven't figured out dwm yet)
+
+Changed colours back to default cause I didn't like the original ones
